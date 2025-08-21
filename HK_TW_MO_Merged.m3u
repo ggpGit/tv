@@ -1,0 +1,17 @@
+#EXTM3U
+
+# ---------- 香港頻道 ----------
+#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB翡翠台" group-title="香港",TVB 翡翠台
+http://example.com/hk/tvbjade.m3u8
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
+http://example.com/hk/viutv.m3u8
+
+# ---------- 台灣頻道 ----------
+#EXTINF:-1 tvg-id="TTV" tvg-name="台視" group-title="台灣",台視 HD
+http://example.com/tw/ttv.m3u8
+#EXTINF:-1 tvg-id="CTS" tvg-name="華視" group-title="台灣",華視 HD
+http://example.com/tw/cts.m3u8
+
+# ---------- 澳門頻道 ----------
+#EXTINF:-1 tvg-id="TDM" tvg-name="澳門蓮花" group-title="澳門",澳門蓮花
+http://example.com/mo/lotus.m3u8
